@@ -51,7 +51,7 @@ Este proyecto requiere un entorno de servidor local que pueda procesar PHP (como
 
 ## 🏷️ Estructura del Proyecto
 
-El proyecto sigue una arquitectura modular y separada, común en el desarrollo Full-Stack:
+El proyecto sigue una arquitectura modular y separada
 
 ```
 .
