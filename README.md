@@ -1,4 +1,4 @@
-# 🌐 Nexus Digital Landing Page Web Full-Stack y API REST con PHP
+#  Nexus Digital Landing Page Web Full-Stack y API REST con PHP
 
 > Proyecto desarrollado como entrega académica, estructurado bajo un enfoque **Full-Stack** que separa la presentación (Frontend) de la lógica del servidor (Backend).
 >
@@ -6,9 +6,9 @@
 
 ---
 
-## 💻 Habilidades Clave Demostradas
+##  Habilidades Clave Demostradas
 
-### 🎨 Programación Front-End (HTML, CSS, JavaScript)
+###  Programación Front-End (HTML, CSS, JavaScript)
 
 * **Diseño Responsivo (Mobile-First):** Implementación de Media Queries para adaptar el diseño a móviles, tablets y escritorio.
 * **Interactividad con JavaScript:** Gestión de la navegación móvil (menú hamburguesa) y funcionalidad de **Modo Oscuro** con persistencia local (`localStorage`).
@@ -24,14 +24,14 @@
     * Simulación de conexión a base de datos (`conexion.php`) y la estructura SQL (DDL y CRUD) necesaria (`query.sql`).
 * **Manejo de Solicitudes:** El script `contacto.php` está configurado para recibir y procesar datos enviados por el método POST, limpiando las entradas con `htmlspecialchars`.
 
-### 🔗 Integración (Consumo de API)
+###  Integración (Consumo de API)
 
 * **Uso de `fetch`:** El Front-End utiliza JavaScript para realizar peticiones **`GET`** a las rutas simuladas de la API.
 * **Datos Dinámicos:** Las secciones "Nosotros" y "Servicios" se construyen dinámicamente inyectando HTML en el DOM con datos obtenidos desde la API.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5.
 * **Backend:** PHP, MySQL (simulado en SQL).
@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Ejecución y Despliegue
+##  Ejecución y Despliegue
 
 Este proyecto requiere un entorno de servidor local que pueda procesar PHP (como XAMPP o WAMP).
 
@@ -49,7 +49,7 @@ Este proyecto requiere un entorno de servidor local que pueda procesar PHP (como
 2.  **Acceso:** Acceda a la Landing Page a través de su navegador (ej: `http://localhost/LandingPageWeb-FullStack-PHP-API-REST/frontend/index.html`).
 
 
-## 🏷️ Estructura del Proyecto
+##  Estructura del Proyecto
 
 El proyecto sigue una arquitectura modular y separada
 
