@@ -1,8 +1,8 @@
-# 🌐 Landing Page Web Full-Stack y API REST con PHP
+# 🌐 Nexus Digital Landing Page Web Full-Stack y API REST con PHP
 
 > Proyecto desarrollado como entrega académica, estructurado bajo un enfoque **Full-Stack** que separa la presentación (Frontend) de la lógica del servidor (Backend).
 >
-> La aplicación simula una **Landing Page** para una empresa de desarrollo de software (Nexus Digital) que consume datos de una **API REST en PHP** para cargar secciones dinámicas como "Nosotros" y "Servicios".
+> La aplicación simula una **Landing Page Nexus Digital** para una empresa de desarrollo de software (Nexus Digital) que consume datos de una **API REST en PHP** para cargar secciones dinámicas como "Nosotros" y "Servicios".
 
 ---
 
