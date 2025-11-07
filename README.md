@@ -33,21 +33,48 @@
 
 ##  Tecnologías Utilizadas
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5.
+* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5.
 * **Backend:** PHP, MySQL (simulado en SQL).
 * **Arquitectura:** API REST, Full-Stack modular.
 
 ---
 
-##  Ejecución y Despliegue
+# 🚀 Ejecución y Despliegue
 
-Este proyecto requiere un entorno de servidor local que pueda procesar PHP (como XAMPP o WAMP).
+Este proyecto tiene dos métodos principales de ejecución: una versión estática de la *Landing Page* (desplegada en GitHub Pages) y una versión completa que requiere un servidor local para procesar el *backend* PHP.
 
-### Ejecución Local
+---
 
-1.  **Montar el Servidor:** Coloque la carpeta raíz **`LandingPageWeb-FullStack-PHP-API-REST`** dentro de la carpeta `htdocs` (o equivalente) de su servidor local (XAMPP/WAMP).
-2.  **Acceso:** Acceda a la Landing Page a través de su navegador (ej: `http://localhost/LandingPageWeb-FullStack-PHP-API-REST/frontend/index.html`).
+## Ejecución en Línea (Versión Estática)
 
+La **Landing Page principal** es completamente estática (construida con HTML, CSS y JavaScript) y puede verse de inmediato sin necesidad de un servidor.
+
+* **Despliegue con GitHub Pages:**
+    Esta versión está publicada profesionalmente mediante el servicio gratuito [GitHub Pages](https://pages.github.com/).
+
+* **Ver el Resultado Final:**
+    Haga clic en el siguiente botón para acceder directamente al sitio web en línea:
+
+    [![Ver Sitio Web](https://img.shields.io/badge/Ver%20Sitio%20Web-2A65F6?style=for-the-badge&logo=materialdesign&logoColor=white)](https://ejts29.github.io/Nexus-Digital-LandingPageWeb-FullStack-PHP-API-REST/)
+
+---
+
+## Ejecución Local (Versión Full Stack con PHP)
+
+El proyecto incluye un ***backend* y una API REST desarrollada en PHP** que requiere un entorno de servidor local para su procesamiento.
+
+Para ejecutar la aplicación en su totalidad (incluyendo la funcionalidad del lado del servidor PHP), siga estos pasos:
+
+1.  **Requisitos:** Debe tener instalado un entorno de servidor local que pueda procesar PHP, como **XAMPP** o **WAMP**.
+
+2.  **Montar el Servidor:**
+    * Coloque la carpeta raíz del proyecto, **`Nexus-Digital-LandingPageWeb-FullStack-PHP-API-REST`**, dentro del directorio de documentos de su servidor (típicamente llamado `htdocs` en XAMPP o `www` en WAMP).
+
+3.  **Acceso Local:**
+    * Acceda a la *Landing Page* a través de la siguiente URL en su navegador:
+        `http://localhost/Nexus-Digital-LandingPageWeb-FullStack-PHP-API-REST/frontend/index.html`
+
+    * Desde esta ubicación, el *frontend* podrá comunicarse con los archivos PHP del *backend*.
 
 ##  Estructura del Proyecto
 
