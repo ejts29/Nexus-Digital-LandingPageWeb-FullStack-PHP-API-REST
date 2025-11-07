@@ -39,7 +39,7 @@
 
 ---
 
-# 🚀 Ejecución y Despliegue
+#  Ejecución y Despliegue
 
 Este proyecto tiene dos métodos principales de ejecución: una versión estática de la *Landing Page* (desplegada en GitHub Pages) y una versión completa que requiere un servidor local para procesar el *backend* PHP.
 
@@ -50,7 +50,7 @@ Este proyecto tiene dos métodos principales de ejecución: una versión estáti
 La **Landing Page principal** es completamente estática (construida con HTML, CSS y JavaScript) y puede verse de inmediato sin necesidad de un servidor.
 
 * **Despliegue con GitHub Pages:**
-    Esta versión está publicada profesionalmente mediante el servicio gratuito [GitHub Pages](https://pages.github.com/).
+    Esta versión está publicada profesionalmente mediante el servicio gratuito GitHub Pages
 
 * **Ver el Resultado Final:**
     Haga clic en el siguiente botón para acceder directamente al sitio web en línea:
